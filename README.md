@@ -1,6 +1,8 @@
- 👋 Hi, I’m Noah <br>
-interested in web development for now <br>
-Currently on HTML & CSS <br>
+ 👋 Hi, Noah </br>
+Web design now </br>
+HTML & CSS </br>
+Also, JavaScript </br>
+Open to meeting people </br>
 adegboyenoah@gmail.com is the contact link
 
 <!---
