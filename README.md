@@ -1,9 +1,8 @@
  👋 Hi, Noah </br>
-Web design now </br>
-HTML & CSS </br>
-Also, JavaScript </br>
-Open to meeting people </br>
-adegboyenoah@gmail.com is the contact link
+Web developer </br>
+HTML, CSS & JavaScript </br>
+Meeting people </br>
+adegboyenoah@gmail.com
 
 <!---
 AdeNoah/AdeNoah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
