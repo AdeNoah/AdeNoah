@@ -1,4 +1,4 @@
- 👋 Hi, Noah here </br
+ 👋 Hi, Noah here </br>
 Frontend web developer </br>
 HTML, CSS & JavaScript <br>
 Meeting people </br>
