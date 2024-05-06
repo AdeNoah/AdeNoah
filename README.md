@@ -1,6 +1,6 @@
- 👋 Hi, Noah </br>
-Web developer </br>
-HTML, CSS & JavaScript </br>
+ 👋 Hi, Noah here </br
+Frontend web developer </br>
+HTML, CSS & JavaScript <br>
 Meeting people </br>
 adegboyenoah@gmail.com
 
