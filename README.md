@@ -1,8 +1,4 @@
- 👋 Hi, Noah here </br>
-Frontend web developer </br>
-HTML, CSS & JavaScript <br>
-Meeting people </br>
-adegboyenoah@gmail.com
+Just trying to make thoughts into reality
 
 <!---
 AdeNoah/AdeNoah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
